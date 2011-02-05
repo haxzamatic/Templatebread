@@ -16,5 +16,6 @@
  -->
 
 <resource-redirections>
-    <item name="drawable/pyramid_background">@drawable/wallpaper</item>
+    <item name="drawable/cyanogenmod_background">@drawable/wallpaper</item>
+	<item name="drawable/lookingglass_background">@drawable/wallpaper_2</item>
 </resource-redirections>

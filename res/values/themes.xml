@@ -16,5 +16,5 @@
  -->
 
 <resources>
-    <style name="Cyanbread" parent="@android:style/Theme" />
+    <style name="Templatebread" parent="@android:style/Theme" />
 </resources>

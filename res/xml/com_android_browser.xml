@@ -16,5 +16,11 @@
  -->
 
 <resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/browser_thumbnail">@drawable/com_android_browser_browser_thumbnail</item>
     <item name="drawable/ic_launcher_browser">@drawable/com_android_browser_ic_launcher_browser</item>
+    <item name="drawable/ic_launcher_shortcut_browser_bookmark">@drawable/com_android_browser_ic_launcher_shortcut_browser_bookmark</item>
+    <item name="drawable/ic_launcher_shortcut_browser_bookmark_icon">@drawable/com_android_browser_ic_launcher_shortcut_browser_bookmark_icon</item>
+    <item name="drawable/search_plate_browser">@drawable/com_android_browser_search_plate_browser</item>	
+	<item name="drawable/ic_btn_bookmarks">@drawable/com_android_browser_ic_btn_bookmarks</item>
 </resource-redirections>

@@ -19,10 +19,13 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.tmobile.theme.Templatebread"
-    android:hasCode="false">
+    android:hasCode="false" android:versionCode="1" android:installLocation="internalOnly" android:versionName="1.0">
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
+	
+	<application android:icon="@drawable/icon" android:label="@string/theme_name">
+	</application>
 
     <theme
         pluto:themeId="Templatebread"

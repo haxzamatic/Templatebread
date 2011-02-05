@@ -22,6 +22,10 @@
     <package-redirections android:name="android"
         android:minSdkVersion="7"
         android:resource="@xml/android" />
+		
+    <package-redirections android:name="com.android.systemui"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_systemui" />
 
     <package-redirections android:name="com.android.launcher"
         android:minSdkVersion="7"
@@ -51,32 +55,132 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_deskclock" />
 
-    <package-redirections android:name="com.android.wallpaper"
-        android:minSdkVersion="7"
-        android:resource="@xml/com_android_wallpaper" />
-
-    <package-redirections android:name="com.android.systemui"
-        android:minSdkVersion="7"
-        android:resource="@xml/com_android_systemui" />
-
-    <package-redirections android:name="com.android.mms"
-        android:minSdkVersion="7"
-        android:resource="@xml/com_android_mms" />
-
     <package-redirections android:name="com.android.browser"
         android:minSdkVersion="7"
         android:resource="@xml/com_android_browser" />
-
-    <package-redirections android:name="com.android.providers.downloads.ui"
+		
+    <package-redirections android:name="com.android.calculator2"
         android:minSdkVersion="7"
-        android:resource="@xml/com_android_providers_downloads_ui" />
+        android:resource="@xml/com_android_calculator2" />
 
     <package-redirections android:name="com.android.calendar"
         android:minSdkVersion="7"
         android:resource="@xml/com_android_calendar" />
 
+    <package-redirections android:name="com.android.cardock"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_cardock" />
+
+    <package-redirections android:name="com.android.development"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_development" />
+
     <package-redirections android:name="com.android.inputmethod.latin"
         android:minSdkVersion="7"
         android:resource="@xml/com_android_inputmethod_latin" />
+
+    <package-redirections android:name="com.android.mms"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_mms" />
+
+    <package-redirections android:name="com.android.protips"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_protips" />
+
+    <package-redirections android:name="com.android.providers.downloads.ui"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_providers_downloads_ui" />
+
+    <package-redirections android:name="com.android.settings"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_settings" />
+		
+    <package-redirections android:name="com.android.soundrecorder"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_soundrecorder" />
+
+    <package-redirections android:name="com.android.spare.parts"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_spare_parts" />
+
+    <package-redirections android:name="com.android.term"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_term" />
+
+    <package-redirections android:name="com.android.vending"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_vending" />
+
+    <package-redirections android:name="com.android.voicedialer"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_voicedialer" />
+
+    <package-redirections android:name="com.android.wallpaper"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_wallpaper" />
+
+    <package-redirections android:name="com.bel.android.dspmanager"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_bel_android_dspmanager" />
+
+    <package-redirections android:name="com.cooliris.media"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_cooliris_media" />
+
+    <package-redirections android:name="com.google.android.apps.genie.geniewidget"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_apps_genie_geniewidget" />
+		
+    <package-redirections android:name="com.android.calculator2"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_calculator2" />
+
+    <package-redirections android:name="com.google.android.apps.googlevoice"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_apps_googlevoice" />
+
+    <package-redirections android:name="com.google.android.gm"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_gm" />
+
+    <package-redirections android:name="com.google.android.googlequicksearchbox"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_googlequicksearchbox" />
+
+    <package-redirections android:name="com.google.android.maps"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_maps" />
+
+    <package-redirections android:name="com.google.android.talk"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_talk" />
+
+    <package-redirections android:name="com.google.android.voicesearch"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_voicesearch" />
+
+    <package-redirections android:name="com.google.android.youtube"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_youtube" />
+
+    <package-redirections android:name="com.koushikdutta.rommanager"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_koushikdutta_rommanager" />
+		
+    <package-redirections android:name="com.noshufou.android.su"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_noshufou_android_su" />
+
+    <package-redirections android:name="net.cactii.flash2"
+        android:minSdkVersion="7"
+        android:resource="@xml/net_cactii_flash2" />
+
+    <package-redirections android:name="org.openintents.filemanager"
+        android:minSdkVersion="7"
+        android:resource="@xml/org_openintents_filemanager" />
+		
+	<package-redirections android:name="com.cyanogenmod.cmwallpapers"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_cyanogenmod_cmwallpapers" />		
 
 </theme-redirections>

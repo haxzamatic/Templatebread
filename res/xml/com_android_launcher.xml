@@ -72,7 +72,26 @@
     <item name="drawable/ic_home_arrows_6_press_right">@drawable/com_android_launcher_ic_home_arrows_6_press_right</item>
     <item name="drawable/ic_home_arrows_6_press">@drawable/com_android_launcher_ic_home_arrows_6_press</item>
     <item name="color/apps3d_glow_pressed">@color/launcher_glow_pressed</item>
-    <item name="color/apps3d_glow_focused">@color/launcher_glow_focused</item>
-
-
+    <item name="color/ab_empty">@color/com_android_launcher_ab_empty</item>
+	<item name="color/all_apps_button">@color/com_android_launcher_all_apps_button</item>
+	<item name="color/all_apps_button_normal">@color/com_android_launcher_all_apps_button_normal</item>
+	<item name="color/arrow_left">@color/com_android_launcher_arrow_left</item>
+	<item name="color/arrow_right">@color/com_android_launcher_arrow_right</item>
+	<item name="color/bg_appwidget_error">@color/com_android_launcher_bg_appwidget_error</item>
+	<item name="color/box_launcher_bottom">@color/com_android_launcher_box_launcher_bottom</item>
+	<item name="color/box_launcher_top_normal">@color/com_android_launcher_box_launcher_top_normal</item>
+	<item name="color/box_launcher_top_pressed">@color/com_android_launcher_box_launcher_top_pressed</item>
+	<item name="color/box_launcher_top_selected">@color/com_android_launcher_box_launcher_top_selected</item>
+	<item name="color/focused_application_background">@color/com_android_launcher_focused_application_background</item>
+	<item name="color/home_button_normal">@color/com_android_launcher_home_button_normal</item>
+	<item name="color/ic_launcher_application">@color/com_android_launcher_ic_launcher_application</item>
+	<item name="color/ic_launcher_appwidget">@color/com_android_launcher_ic_launcher_appwidget</item>
+	<item name="color/ic_launcher_folder">@color/com_android_launcher_ic_launcher_folder</item>
+	<item name="color/ic_launcher_folder_open">@color/com_android_launcher_ic_launcher_folder_open</item>
+	<item name="color/ic_launcher_home">@color/com_android_launcher_ic_launcher_home</item>
+	<item name="color/ic_launcher_shortcut">@color/com_android_launcher_ic_launcher_shortcut</item>
+	<item name="color/ic_launcher_wallpaper">@color/com_android_launcher_ic_launcher_wallpaper</item>
+	<item name="color/pressed_application_background">@color/com_android_launcher_pressed_application_background</item>
+	<item name="color/trashcan">@color/com_android_launcher_trashcan</item>
+	<item name="color/trashcan_hover">@color/com_android_launcher_trashcan_hover</item>
 </resource-redirections>

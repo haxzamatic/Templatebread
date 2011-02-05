@@ -18,5 +18,18 @@
 <resource-redirections>
     <item name="drawable/buttonbar_focused">@drawable/frameworks_res_tab_focus</item>
     <item name="drawable/buttonbar_pressed">@drawable/frameworks_res_tab_press</item>
-    <item name="drawable/app_video">@drawable/com_android_music_app_video</item>
+	<item name="drawable/app_music">@drawable/com_android_music_app_music</item>
+	<item name="drawable/app_video">@drawable/com_android_music_app_video</item>
+	<item name="drawable/ic_launcher_shortcut_music_playlist">@drawable/com_android_music_ic_launcher_shortcut_music_playlist</item>
+	<item name="drawable/btn_playback_ic_play_small">@drawable/com_android_music_btn_playback_ic_play_small</item>
+	<item name="drawable/btn_playback_ic_pause_small">@drawable/com_android_music_btn_playback_ic_pause_small</item>
+	<item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+	<item name="drawable/albumart_mp_unknown">@drawable/com_android_music_albumart_mp_unknown</item>
+	<item name="drawable/albumart_mp_unknown_list">@drawable/com_android_music_albumart_mp_unknown</item>
+	<item name="drawable/appwidget_inner_focus_c">@drawable/appwidget_inner_focus_c</item>
+	<item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_focus_l</item>
+	<item name="drawable/appwidget_inner_focus_r">@drawable/appwidget_inner_focus_r</item>
+	<item name="drawable/appwidget_inner_press_c">@drawable/appwidget_inner_press_c</item>
+	<item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press_l</item>
+	<item name="drawable/appwidget_inner_press_r">@drawable/appwidget_inner_press_r</item>
 </resource-redirections>

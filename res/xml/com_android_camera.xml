@@ -21,4 +21,25 @@
     <item name="drawable/btn_camera_review">@drawable/com_android_camera_btn_camera_review</item>
     <item name="drawable/btn_mode_switch_knob">@drawable/com_android_camera_btn_mode_switch_knob</item>
     <item name="drawable/btn_shutter">@drawable/com_android_camera_btn_shutter</item>
+	<item name="drawable/border_view_finder">@drawable/com_android_camera_border_view_finder</item>
+	<item name="drawable/btn_ic_camera_shutter">@drawable/com_android_camera_btn_ic_camera_shutter</item>
+	<item name="drawable/btn_ic_mode_switch_camera">@drawable/com_android_camera_btn_ic_mode_switch_camera</item>
+	<item name="drawable/cbtn_ic_mode_switch_video">@drawable/com_android_camera_btn_ic_mode_switch_video</item>
+	<item name="drawable/btn_ic_review_cancel">@drawable/com_android_camera_btn_ic_review_cancel</item>
+	<item name="drawable/btn_ic_review_done">@drawable/com_android_camera_btn_ic_review_done</item>
+	<item name="drawable/btn_ic_review_play">@drawable/com_android_camera_btn_ic_review_play</item>
+	<item name="drawable/btn_ic_review_retake_photo">@drawable/com_android_camera_btn_ic_review_retake_photo</item>
+	<item name="drawable/btn_ic_review_retake_video">@drawable/com_android_camera_btn_ic_review_retake_video</item>
+	<item name="drawable/btn_ic_video_record">@drawable/com_android_camera_btn_ic_video_record</item>
+	<item name="drawable/btn_ic_video_record_stop">@drawable/com_android_camera_btn_ic_video_record_stop</item>
+	<item name="drawable/btn_mode_switch_bg">@drawable/com_android_camera_btn_mode_switch_bg</item>
+	<item name="drawable/focus_focus_failed">@drawable/com_android_camera_focus_focus_failed</item>
+	<item name="drawable/focus_focused">@drawable/com_android_camera_focus_focused</item>
+	<item name="drawable/focus_focusing">@drawable/com_android_camera_focus_focusing</item>
+	<item name="drawable/ic_launcher_camera">@drawable/com_android_camera_ic_launcher_camera</item>
+	<item name="drawable/ic_launcher_video_camera">@drawable/com_android_camera_ic_launcher_video_camera</item>
+	<item name="drawable/ic_recording_indicator">@drawable/com_android_camera_ic_recording_indicator</item>
+	<item name="drawable/menu_popup">@drawable/com_android_camera_menu_popup</item>
+	<item name="drawable/menu_popup_triangle">@drawable/com_android_camera_menu_popup_triangle</item>
+	<item name="drawable/on_screen_hint_frame">@drawable/com_android_camera_on_screen_hint_frame</item>
 </resource-redirections>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/ic_launcher_mail">@drawable/com_google_android_gm_ic_launcher_mail</item>
+	<item name="drawable/arrow_more_left">@drawable/com_google_android_gm_arrow_more_left</item>
+	<item name="drawable/bottom_bar">@drawable/com_google_android_gm_bottom_bar</item>
+	<item name="drawable/btn_check_buttonless_off">@drawable/com_google_android_gm_btn_check_buttonless_off</item>
+	<item name="drawable/btn_check_buttonless_on">@drawable/com_google_android_gm_btn_check_buttonless_on</item>
+	<item name="drawable/btn_circle_disable">@drawable/com_google_android_gm_btn_circle_disable</item>
+	<item name="drawable/btn_circle_disable_focused">@drawable/com_google_android_gm_btn_circle_disable_focused</item>
+	<item name="drawable/btn_circle_normal">@drawable/com_google_android_gm_btn_circle_normal</item>
+	<item name="drawable/btn_circle_pressed">@drawable/com_google_android_gm_btn_circle_pressed</item>
+	<item name="drawable/btn_circle_selected">@drawable/com_google_android_gm_btn_circle_selected</item>
+	<item name="drawable/btn_star_big_buttonless_off">@drawable/com_google_android_gm_btn_star_big_buttonless_off</item>
+	<item name="drawable/btn_star_big_buttonless_on">@drawable/com_google_android_gm_btn_star_big_buttonless_on</item>
+	<item name="drawable/custom_title_btn">@drawable/com_google_android_gm_custom_title_btn</item>
+	<item name="drawable/custom_title_btn_focused">@drawable/com_google_android_gm_custom_title_btn_focused</item>
+	<item name="drawable/custom_title_btn_pressed">@drawable/com_google_android_gm_custom_title_btn_pressed</item>
+	<item name="drawable/ic_launcher_shortcut_gmail_label">@drawable/com_google_android_gm_ic_launcher_shortcut_gmail_label</item>
+	<item name="drawable/logo">@drawable/com_google_android_gm_logo</item>
+	<item name="drawable/logo_googlemail">@drawable/com_google_android_gm_logo_googlemail</item>
+	<item name="drawable/stat_notify_email">@drawable/com_google_android_gm_stat_notify_email</item>
+</resource-redirections>

@@ -16,8 +16,34 @@
  -->
 
 <resource-redirections>
-    <item name="drawable/textfield_im_user_pressed_pad">@drawable/com_android_mms_textfield_im_user_pressed_pad</item>
-    <item name="drawable/textfield_im_user_selected_pad">@drawable/com_android_mms_textfield_im_user_selected_pad</item>
     <item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
-    <item name="drawable/bottombar_landscape_565">@drawable/frameworks_res_bottom_bar</item>
+	<item name="drawable/emo_im_angel">@drawable/frameworks_res_emo_im_angel</item>
+	<item name="drawable/emo_im_cool">@drawable/frameworks_res_emo_im_cool</item>
+	<item name="drawable/emo_im_crying">@drawable/frameworks_res_emo_im_crying</item>
+	<item name="drawable/emo_im_foot_in_mouth">@drawable/frameworks_res_emo_im_foot_in_mouth</item>
+	<item name="drawable/emo_im_happy">@drawable/frameworks_res_emo_im_happy</item>
+	<item name="drawable/emo_im_kissing">@drawable/frameworks_res_emo_im_kissing</item>
+	<item name="drawable/emo_im_laughing">@drawable/frameworks_res_emo_im_laughing</item>
+	<item name="drawable/emo_im_lips_are_sealed">@drawable/frameworks_res_emo_im_lips_are_sealed</item>
+	<item name="drawable/emo_im_money_mouth">@drawable/frameworks_res_emo_im_money_mouth</item>
+	<item name="drawable/emo_im_sad">@drawable/frameworks_res_emo_im_sad</item>
+	<item name="drawable/emo_im_surprised">@drawable/frameworks_res_emo_im_surprised</item>
+	<item name="drawable/emo_im_tongue_sticking_out">@drawable/frameworks_res_emo_im_tongue_sticking_out</item>
+	<item name="drawable/emo_im_undecided">@drawable/frameworks_res_emo_im_undecided</item>
+	<item name="drawable/emo_im_winking">@drawable/frameworks_res_emo_im_winking</item>
+	<item name="drawable/emo_im_wtf">@drawable/frameworks_res_emo_im_wtf</item>
+	<item name="drawable/emo_im_yelling">@drawable/frameworks_res_emo_im_yelling</item>
+	<item name="drawable/ic_launcher_camera">@drawable/com_android_camera_ic_launcher_camera</item>
+	<item name="drawable/ic_launcher_camera_record">@drawable/com_android_camera_ic_launcher_video_camera</item>
+	<item name="drawable/ic_launcher_gallery">@drawable/com_android_mms_ic_launcher_gallery</item>
+	<item name="drawable/ic_launcher_musicplayer_2">@drawable/com_android_music_app_music</item>
+	<item name="drawable/ic_launcher_record_audio">@drawable/com_android_mms_ic_launcher_record_audio</item>
+	<item name="drawable/ic_launcher_slideshow_add_sms">@drawable/com_android_mms_ic_launcher_slideshow_add_sms</item>
+	<item name="drawable/ic_launcher_slideshow_default_sms">@drawable/com_android_mms_ic_launcher_slideshow_add_sms</item>
+	<item name="drawable/ic_launcher_video_player">@drawable/com_android_music_app_video</item>
+	<item name="drawable/stat_notify_mms">@drawable/com_android_mms_stat_notify_mms</item>
+	<item name="drawable/stat_notify_sms">@drawable/com_android_mms_stat_notify_sms</item>
+	<item name="drawable/stat_notify_sms_failed">@drawable/com_android_mms_stat_notify_sms_failed</item>
+	<item name="drawable/textfield_im_user_pressed_pad">@drawable/com_android_mms_textfield_im_user_pressed_pad</item>
+	<item name="drawable/textfield_im_user_selected_pad">@drawable/com_android_mms_textfield_im_user_selected_pad</item>
 </resource-redirections>

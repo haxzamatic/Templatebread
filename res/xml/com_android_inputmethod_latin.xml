@@ -16,11 +16,32 @@
  -->
 
 <resource-redirections>
-    <item name="drawable/highlight_pressed">@drawable/com_android_inputmethod_latin_highlight_pressed</item>
-    <item name="drawable/btn_keyboard_key_light_popup_selected">@drawable/com_android_inputmethod_latin_btn_keyboard_key_light_popup_selected</item>
-    <item name="drawable/keyboard_popup_panel_background">@drawable/com_android_inputmethod_latin_keyboard_popup_panel_background</item>
-    <item name="drawable/sym_keyboard_space_led">@drawable/com_android_inputmethod_latin_sym_keyboard_space_led</item>
-    <item name="drawable/list_selector_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
-    <item name="color/candidate_recommended">@color/color_primary_press</item>
-    <item name="color/candidate_other">@color/color_primary_focus</item>
+    <item name="drawable/btn_keyboard_key_dark_normal">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_normal</item>
+    <item name="drawable/btn_keyboard_key_dark_normal_off">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_normal_off</item>
+    <item name="drawable/btn_keyboard_key_dark_normal_on">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_normal_on</item>
+    <item name="drawable/btn_keyboard_key_dark_pressed">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_pressed</item>
+    <item name="drawable/btn_keyboard_key_dark_pressed_off">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_pressed_off</item>
+    <item name="drawable/btn_keyboard_key_dark_pressed_on">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_pressed_on</item>	
+	<item name="drawable/btn_keyboard_key_fulltrans_normal">@drawable/com_android_inputmethod_latin_btn_keyboard_key_fulltrans_normal</item>
+	<item name="drawable/btn_keyboard_key_fulltrans_pressed">@drawable/com_android_inputmethod_latin_btn_keyboard_key_fulltrans_pressed</item>
+	<item name="drawable/btn_keyboard_key_light_normal">@drawable/com_android_inputmethod_latin_btn_keyboard_key_light_normal</item>	
+	<item name="drawable/btn_keyboard_key_light_popup_normal">@drawable/com_android_inputmethod_latin_btn_keyboard_key_light_popup_normal</item>
+	<item name="drawable/btn_keyboard_key_light_popup_selected">@drawable/com_android_inputmethod_latin_btn_keyboard_key_light_popup_selected</item>
+	<item name="drawable/btn_keyboard_key_light_pressed">@drawable/com_android_inputmethod_latin_btn_keyboard_key_light_pressed</item>
+	<item name="drawable/btn_keyboard_key_normal">@drawable/com_android_inputmethod_latin_btn_keyboard_key_normal</item>
+	<item name="drawable/btn_keyboard_key_normal_off">@drawable/com_android_inputmethod_latin_btn_keyboard_key_normal_off</item>
+	<item name="drawable/btn_keyboard_key_normal_off_stone">@drawable/com_android_inputmethod_latin_btn_keyboard_key_normal_off_stone</item>
+	<item name="drawable/btn_keyboard_key_normal_on">@drawable/com_android_inputmethod_latin_btn_keyboard_key_normal_on</item>
+	<item name="drawable/btn_keyboard_key_normal_on_stone">@drawable/com_android_inputmethod_latin_btn_keyboard_key_normal_on_stone</item>
+	<item name="drawable/btn_keyboard_key_normal_stone">@drawable/com_android_inputmethod_latin_btn_keyboard_key_normal_stone</item>
+	<item name="drawable/btn_keyboard_key_pressed">@drawable/com_android_inputmethod_latin_btn_keyboard_key_pressed</item>
+	<item name="drawable/btn_keyboard_key_pressed_off">@drawable/com_android_inputmethod_latin_btn_keyboard_key_pressed_off</item>
+	<item name="drawable/btn_keyboard_key_pressed_on">@drawable/com_android_inputmethod_latin_btn_keyboard_key_pressed_on</item>
+	<item name="drawable/keyboard_background">@drawable/com_android_inputmethod_latin_keyboard_background</item>
+	<item name="drawable/keyboard_dark_background">@drawable/com_android_inputmethod_latin_keyboard_dark_background</item>
+	<item name="drawable/keyboard_key_feedback_background">@drawable/com_android_inputmethod_latin_keyboard_key_feedback_background</item>
+	<item name="drawable/keyboard_key_feedback_more_background">@drawable/com_android_inputmethod_latin_keyboard_key_feedback_more_background</item>
+	<item name="drawable/keyboard_popup_panel_background">@drawable/com_android_inputmethod_latin_keyboard_popup_panel_background</item>
+	<item name="drawable/keyboard_suggest_strip">@drawable/com_android_inputmethod_latin_keyboard_suggest_strip</item>
+	<item name="drawable/sym_keyboard_space_led.9">@drawable/com_android_inputmethod_latin_sym_keyboard_space_led</item>
 </resource-redirections>
