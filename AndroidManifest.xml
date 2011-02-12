@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:pluto="http://www.w3.org/2001/pluto.html"
+    package="com.tmobile.theme.Templatebread"
+    android:hasCode="false" android:versionCode="1" android:installLocation="internalOnly" android:versionName="1.0">
+
+    <!-- Make sure this theme APK only shows up on appropriate devices. -->
+    <uses-feature android:name="com.tmobile.software.themes" />
+	
+	<application android:icon="@drawable/icon" android:label="@string/theme_name">
+	</application>
+
+    <theme
+        pluto:themeId="Templatebread"
+        pluto:styleId="@style/Templatebread"
+        pluto:name="@string/theme_name"
+        pluto:preview="@drawable/preview"
+        pluto:author="@string/author"
+        pluto:copyright="@string/copyright"
+        pluto:wallpaperImage="@drawable/wallpaper"
+        pluto:styleName="@string/style_appearance_name"
+        pluto:ringtoneName="Shocking"
+        pluto:ringtoneFileName="media/audio/ringtones/Shocking.mp3"
+        pluto:notificationRingtoneName="Teleport"
+        pluto:notificationRingtoneFileName="media/audio/notifications/Teleport.mp3">
+
+        <!-- Currently this is not being read, but instead the redirections are
+             inferred from the convention res/xml/<package_name>.xml. -->
+        <meta-data android:name="com.tmobile.theme.redirections"
+            android:resource="@xml/redirections" />
+
+    </theme>
+
+</manifest>

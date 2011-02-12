@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/btn_in_call_manage_conf_pressed">@drawable/com_android_phone_btn_in_call_manage_conf_pressed</item>
+    <item name="drawable/btn_in_call_manage_conf_selected">@drawable/com_android_phone_btn_in_call_manage_conf_selected</item>
+    <item name="drawable/btn_in_call_main_selected">@drawable/com_android_phone_btn_in_call_main_selected</item>
+    <item name="drawable/btn_in_call_main_pressed">@drawable/com_android_phone_btn_in_call_main_pressed</item>
+    <item name="drawable/btn_in_call_answer_pressed">@drawable/com_android_phone_btn_in_call_answer_pressed</item>
+    <item name="drawable/btn_in_call_round_pressed">@drawable/com_android_phone_btn_in_call_round_pressed</item>
+    <item name="drawable/btn_in_call_round_selected">@drawable/com_android_phone_btn_in_call_round_selected</item>
+    <item name="drawable/btn_in_call_switch_off_pressed">@drawable/com_android_phone_btn_in_call_switch_off_pressed</item>
+    <item name="drawable/btn_in_call_switch_off_selected">@drawable/com_android_phone_btn_in_call_switch_off_selected</item>
+    <item name="drawable/btn_in_call_round_disable_focused">@drawable/com_android_phone_btn_in_call_round_disable_focused</item>
+    <item name="drawable/btn_in_call_main_disable_focused">@drawable/com_android_phone_btn_in_call_main_disable_focused</item>
+    <item name="drawable/btn_in_call_switch_off_disable_focused">@drawable/com_android_phone_btn_in_call_switch_off_disable_focused</item>
+    <item name="drawable/btn_in_call_switch_on_disable_focused">@drawable/com_android_phone_btn_in_call_switch_on_disable_focused</item>
+    <item name="drawable/btn_in_call_switch_on_pressed">@drawable/com_android_phone_btn_in_call_switch_on_pressed</item>
+    <item name="drawable/btn_in_call_switch_on_selected">@drawable/com_android_phone_btn_in_call_switch_on_selected</item>
+    <item name="drawable/btn_dial_action_left_disable_focused">@drawable/com_android_phone_btn_dial_action_left_disable_focused</item>
+    <item name="drawable/btn_dial_action_left_pressed">@drawable/com_android_phone_btn_dial_action_left_pressed</item>
+    <item name="drawable/btn_dial_action_left_selected">@drawable/com_android_phone_btn_dial_action_left_selected</item>
+    <item name="drawable/btn_dial_action_middle_disable_focused">@drawable/com_android_phone_btn_dial_action_middle_disable_focused</item>
+    <item name="drawable/btn_dial_action_middle_pressed">@drawable/com_android_phone_btn_dial_action_middle_pressed</item>
+    <item name="drawable/btn_dial_action_middle_selected">@drawable/com_android_phone_btn_dial_action_middle_selected</item>
+    <item name="drawable/btn_dial_action_right_disable_focused">@drawable/com_android_phone_btn_dial_action_right_disable_focused</item>
+    <item name="drawable/btn_dial_action_right_pressed">@drawable/com_android_phone_btn_dial_action_right_pressed</item>
+    <item name="drawable/btn_dial_action_right_selected">@drawable/com_android_phone_btn_dial_action_right_selected</item>
+    <item name="drawable/btn_dial_pressed">@drawable/com_android_phone_btn_dial_pressed</item>
+    <item name="drawable/btn_dial_selected">@drawable/com_android_phone_btn_dial_selected</item>
+    <item name="drawable/btn_dial_textfield_activated">@drawable/com_android_phone_btn_dial_textfield_activated</item>
+    <item name="drawable/btn_dial_textfield_pressed">@drawable/com_android_phone_btn_dial_textfield_pressed</item>
+    <item name="drawable/btn_dial_textfield_selected">@drawable/com_android_phone_btn_dial_textfield_selected</item>
+	<item name="drawable/bg_in_call_gradient_bluetooth">@drawable/com_android_phone_bg_in_call_gradient_bluetooth</item>
+	<item name="drawable/bg_in_call_gradient_connected">@drawable/com_android_phone_bg_in_call_gradient_connected</item>
+	<item name="drawable/bg_in_call_gradient_ended">@drawable/com_android_phone_bg_in_call_gradient_ended</item>
+	<item name="drawable/bg_in_call_gradient_on_hold">@drawable/com_android_phone_bg_in_call_gradient_on_hold</item>
+	<item name="drawable/bg_in_call_gradient_unidentified">@drawable/com_android_phone_bg_in_call_gradient_unidentified</item>
+	<item name="drawable/btn_in_call_answer_dotted_green">@drawable/com_android_phone_btn_in_call_answer_dotted_green</item>
+	<item name="drawable/btn_in_call_answer_dotted_red">@drawable/com_android_phone_btn_in_call_answer_dotted_red</item>
+	<item name="drawable/btn_in_call_answer_normal">@drawable/com_android_phone_btn_in_call_answer_normal</item>
+	<item name="drawable/btn_in_call_main_disable">@drawable/com_android_phone_btn_in_call_main_disable</item>
+	<item name="drawable/btn_in_call_main_normal">@drawable/com_android_phone_btn_in_call_main_normal</item>
+	<item name="drawable/btn_in_call_manage_conf_normal">@drawable/com_android_phone_btn_in_call_manage_conf_normal</item>
+	<item name="drawable/btn_in_call_round_disable">@drawable/com_android_phone_btn_in_call_round_disable</item>
+	<item name="drawable/btn_in_call_round_normal">@drawable/com_android_phone_btn_in_call_round_normal</item>
+	<item name="drawable/btn_in_call_switch_off_disable">@drawable/com_android_phone_btn_in_call_switch_off_disable</item>
+	<item name="drawable/btn_in_call_switch_off_normal">@drawable/com_android_phone_btn_in_call_switch_off_normal</item>
+	<item name="drawable/btn_in_call_switch_on_disable">@drawable/com_android_phone_btn_in_call_switch_on_disable</item>
+	<item name="drawable/btn_in_call_switch_on_normal">@drawable/com_android_phone_btn_in_call_switch_on_normal</item>
+	<item name="drawable/dialog_bg_calling_via">@drawable/com_android_phone_dialog_bg_calling_via</item>
+	<item name="drawable/green_selected">@drawable/com_android_phone_green_selected</item>
+	<item name="drawable/ic_button_conference_end">@drawable/com_android_phone_ic_button_conference_end</item>
+	<item name="drawable/ic_button_conference_private">@drawable/com_android_phone_ic_button_conference_private</item>
+	<item name="drawable/ic_button_contacts">@drawable/com_android_phone_ic_button_contacts</item>
+	<item name="drawable/ic_dialog_call">@drawable/com_android_phone_ic_dialog_call</item>
+	<item name="drawable/ic_in_call_touch_add_call">@drawable/com_android_phone_ic_in_call_touch_add_call</item>
+	<item name="drawable/ic_in_call_touch_answer">@drawable/com_android_phone_ic_in_call_touch_answer</item>
+	<item name="drawable/ic_in_call_touch_dialpad">@drawable/com_android_phone_ic_in_call_touch_dialpad</item>
+	<item name="drawable/ic_in_call_touch_dialpad_close">@drawable/com_android_phone_ic_in_call_touch_dialpad_close</item>
+	<item name="drawable/ic_in_call_touch_end">@drawable/com_android_phone_ic_in_call_touch_end</item>
+	<item name="drawable/ic_in_call_touch_hold">@drawable/com_android_phone_ic_in_call_touch_hold</item>
+	<item name="drawable/ic_in_call_touch_merge_call">@drawable/com_android_phone_ic_in_call_touch_merge_call</item>
+	<item name="drawable/ic_in_call_touch_round_add_call">@drawable/com_android_phone_ic_in_call_touch_round_add_call</item>
+	<item name="drawable/ic_in_call_touch_round_hold">@drawable/com_android_phone_ic_in_call_touch_round_hold</item>
+	<item name="drawable/ic_in_call_touch_round_manage_conference">@drawable/com_android_phone_ic_in_call_touch_round_manage_conference</item>
+	<item name="drawable/ic_in_call_touch_round_merge_call">@drawable/com_android_phone_ic_in_call_touch_round_merge_call</item>
+	<item name="drawable/ic_in_call_touch_round_swap">@drawable/com_android_phone_ic_in_call_touch_round_swap</item>
+	<item name="drawable/ic_in_call_touch_round_unhold">@drawable/com_android_phone_ic_in_call_touch_round_unhold</item>
+	<item name="drawable/ic_in_call_touch_round_unhold_alt">@drawable/com_android_phone_ic_in_call_touch_round_unhold_alt</item>
+	<item name="drawable/ic_in_call_touch_swap">@drawable/com_android_phone_ic_in_call_touch_swap</item>
+	<item name="drawable/ic_in_call_touch_unhold">@drawable/com_android_phone_ic_in_call_touch_unhold</item>
+	<item name="drawable/ic_incall_end">@drawable/com_android_phone_ic_incall_end</item>
+	<item name="drawable/ic_incall_ongoing">@drawable/com_android_phone_ic_incall_ongoing</item>
+	<item name="drawable/ic_incall_ongoing_bluetooth">@drawable/com_android_phone_ic_incall_ongoing_bluetooth</item>
+	<item name="drawable/ic_incall_onhold">@drawable/com_android_phone_ic_incall_onhold</item>
+	<item name="drawable/ic_incoming_call_bluetooth">@drawable/com_android_phone_ic_incoming_call_bluetooth</item>
+	<item name="drawable/ic_launcher_contacts">@drawable/com_android_phone_ic_launcher_contacts</item>
+	<item name="drawable/ic_launcher_folder_live_contacts">@drawable/com_android_phone_ic_launcher_folder_live_contacts</item>
+	<item name="drawable/ic_launcher_folder_live_contacts_phone">@drawable/com_android_phone_ic_launcher_folder_live_contacts_phone</item>
+	<item name="drawable/ic_launcher_folder_live_contacts_starred">@drawable/com_android_phone_ic_launcher_folder_live_contacts_starred</item>
+	<item name="drawable/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
+	<item name="drawable/ic_launcher_sip_call">@drawable/com_android_phone_ic_launcher_sip_call</item>
+	<item name="drawable/ic_menu_add_black">@drawable/com_android_phone_ic_menu_add_black</item>
+	<item name="drawable/ic_menu_answer_call">@drawable/com_android_phone_ic_menu_answer_call</item>
+	<item name="drawable/ic_menu_dial_pad">@drawable/com_android_phone_ic_menu_dial_pad</item>
+	<item name="drawable/ic_menu_end_call">@drawable/com_android_phone_ic_menu_end_call</item>
+	<item name="drawable/ic_menu_merge_calls">@drawable/com_android_phone_ic_menu_merge_calls</item>
+	<item name="drawable/ic_menu_silence_ringer">@drawable/com_android_phone_ic_menu_silence_ringer</item>
+	<item name="drawable/ic_menu_swap_calls">@drawable/com_android_phone_ic_menu_swap_calls</item>
+	<item name="drawable/incall_photo_border_lg">@drawable/com_android_phone_incall_photo_border_lg</item>
+	<item name="drawable/incall_photo_border_med">@drawable/com_android_phone_incall_photo_border_med</item>
+	<item name="drawable/picture_busy">@drawable/com_android_phone_picture_busy</item>
+	<item name="drawable/picture_conference">@drawable/com_android_phone_picture_conference</item>
+	<item name="drawable/picture_dialing">@drawable/com_android_phone_picture_dialing</item>
+	<item name="drawable/picture_unknown">@drawable/com_android_phone_picture_unknown</item>
+	<item name="drawable/red_selected">@drawable/com_android_phone_red_selected</item>
+	<item name="drawable/stat_sys_phone_call">@drawable/com_android_phone_stat_sys_phone_call</item>
+	<item name="drawable/stat_sys_phone_call_bluetooth">@drawable/com_android_phone_stat_sys_phone_call_bluetooth</item>
+	<item name="drawable/stat_sys_phone_call_forward">@drawable/com_android_phone_stat_sys_phone_call_forward</item>
+	<item name="drawable/stat_sys_phone_call_on_hold">@drawable/com_android_phone_stat_sys_phone_call_on_hold</item>
+	<item name="drawable/stat_sys_phone_call_ringing">@drawable/com_android_phone_stat_sys_phone_call_ringing</item>
+	<item name="drawable/stat_sys_vp_phone_call">@drawable/com_android_phone_stat_sys_vp_phone_call</item>
+	<item name="drawable/stat_sys_vp_phone_call_bluetooth">@drawable/com_android_phone_stat_sys_vp_phone_call_bluetooth</item>
+	<item name="drawable/stat_sys_vp_phone_call_on_hold">@drawable/com_android_phone_stat_sys_vp_phone_call_on_hold</item>	
+	<item name="drawable/btn_dial_action_left_disable">@drawable/com_android_phone_btn_dial_action_left_disable</item>
+	<item name="drawable/btn_dial_action_left_normal">@drawable/com_android_phone_btn_dial_action_left_normal</item>
+	<item name="drawable/btn_dial_action_middle_disable">@drawable/com_android_phone_btn_dial_action_middle_disable</item>
+	<item name="drawable/btn_dial_action_middle_normal">@drawable/com_android_phone_btn_dial_action_middle_normal</item>
+	<item name="drawable/btn_dial_action_right_disable">@drawable/com_android_phone_btn_dial_action_right_disable</item>
+	<item name="drawable/btn_dial_action_right_normal">@drawable/com_android_phone_btn_dial_action_right_normal</item>
+	<item name="drawable/btn_dial_normal">@drawable/com_android_phone_btn_dial_normal</item>
+	<item name="drawable/btn_dial_normal_blue">@drawable/com_android_phone_btn_dial_normal_blue</item>
+	<item name="drawable/btn_dial_normal_green">@drawable/com_android_phone_btn_dial_normal_green</item>
+	<item name="drawable/btn_dial_textfield_normal">@drawable/com_android_phone_btn_dial_textfield_normal</item>
+	<item name="drawable/btn_dial_textfield_normal_full">@drawable/com_android_phone_btn_dial_textfield_normal_full</item>
+	<item name="drawable/btn_dial_textfield_normal_full_sm">@drawable/com_android_phone_btn_dial_textfield_normal_full_sm</item>
+	<item name="drawable/ic_dial_action_delete">@drawable/com_android_phone_ic_dial_action_delete</item>
+	<item name="drawable/ic_dial_action_voice_mail">@drawable/com_android_phone_ic_dial_action_voice_mail</item>
+	<item name="drawable/ic_dial_number_blk">@drawable/com_android_phone_ic_dial_number_blk</item>
+	<item name="drawable/ic_dial_number_wht">@drawable/com_android_phone_ic_dial_number_wht</item>
+	<item name="drawable/ic_menu_contact">@drawable/com_android_phone_ic_menu_contact</item>
+	<item name="drawable/ic_tab_selected_contacts">@drawable/com_android_phone_ic_tab_selected_contacts</item>
+	<item name="drawable/ic_tab_selected_dialer">@drawable/com_android_phone_ic_tab_selected_dialer</item>
+	<item name="drawable/ic_tab_selected_recent">@drawable/com_android_phone_ic_tab_selected_recent</item>
+	<item name="drawable/ic_tab_selected_stared">@drawable/com_android_phone_ic_tab_selected_stared</item>
+	<item name="drawable/ic_tab_unselected_contacts">@drawable/com_android_phone_ic_tab_unselected_contacts</item>
+	<item name="drawable/ic_tab_unselected_dialer">@drawable/com_android_phone_ic_tab_unselected_dialer</item>
+	<item name="drawable/ic_tab_unselected_recent">@drawable/com_android_phone_ic_tab_unselected_recent</item>
+	<item name="drawable/ic_tab_unselected_stared">@drawable/com_android_phone_ic_tab_unselected_stared</item>
+</resource-redirections>
