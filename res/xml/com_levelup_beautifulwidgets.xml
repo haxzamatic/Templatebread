@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/zo_froyobg">@drawable/appwidget_bg</item>
+	<item name="drawable/homewidget_bg_small">@drawable/com_levelup_beautifulwidgets_homewidget_bg_small</item>
+</resource-redirections>

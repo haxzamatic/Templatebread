@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/widget_background">@drawable/com_espn_score_center_widget_bg</item>
+	<item name="drawable/icon">@drawable/com_pandora_android_icon</item>
+	<item name="drawable/widget_pandora_logo">@drawable/com_pandora_android_widget_pandora_logo</item>
+	<item name="drawable/widget_pandora_logo_hilite">@drawable/com_pandora_android_widget_pandora_logo_hilite</item>
+	<item name="drawable/widget_watermark">@drawable/com_pandora_android_widget_watermark</item>
+</resource-redirections>

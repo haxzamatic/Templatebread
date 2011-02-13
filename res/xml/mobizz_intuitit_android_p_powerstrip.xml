@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+	<item name="drawable/btn_keyboard_key_trans_normal">@drawable/mobizz_intuitit_android_p_powerstrip_btn_keyboard_key_trans_normal</item>
+	<item name="drawable/focused_application_background">@drawable/frameworks_res_focused_application_background</item>
+	<item name="drawable/btn_keyboard_key_trans_pressed">@drawable/mobizz_intuitit_android_p_powerstrip_btn_keyboard_key_trans_pressed</item>
+	<item name="drawable/btn_keyboard_key_trans_selected">@drawable/mobizz_intuitit_android_p_powerstrip_btn_keyboard_key_trans_selected</item>
+	<item name="drawable/popup_full_dark">@drawable/frameworks_res_popup_full_dark</item>
+	<item name="drawable/icon_pstrip">@drawable/mobizz_intuitit_android_p_powerstrip_icon_pstrip</item>
+</resource-redirections>

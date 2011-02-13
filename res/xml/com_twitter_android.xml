@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_bg_focus">@drawable/appwidget_bg_focus</item>
+	<item name="drawable/appwidget_bg_press">@drawable/appwidget_bg_press</item>
+	<item name="drawable/appwidget_small_bg_default">@drawable/appwidget_bg</item>
+	<item name="drawable/appwidget_small_bg_pressed">@drawable/appwidget_bg_press</item>
+	<item name="drawable/appwidget_small_bg_selected">@drawable/appwidget_bg_focus</item>
+	<item name="drawable/appwidget_top_header">@drawable/com_twitter_android_appwidget_top_header</item>
+	<item name="drawable/appwidget_twitter_logo_default">@drawable/com_twitter_android_appwidget_twitter_logo_default</item>
+	<item name="drawable/appwidget_twitter_logo_pressed">@drawable/com_twitter_android_appwidget_twitter_logo_pressed</item>
+	<item name="drawable/appwidget_twitter_logo_selected">@drawable/com_twitter_android_appwidget_twitter_logo_selected</item>
+	<item name="color/gray_color">@color/bright_foreground_dark</item>
+</resource-redirections>

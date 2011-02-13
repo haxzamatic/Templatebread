@@ -1,83 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
- # Copyright (C) 2010, T-Mobile USA, Inc.
- #
- # Licensed under the Apache License, Version 2.0 (the "License");
- # you may not use this file except in compliance with the License.
- # You may obtain a copy of the License at
- #
- #      http://www.apache.org/licenses/LICENSE-2.0
- #
- # Unless required by applicable law or agreed to in writing, software
- # distributed under the License is distributed on an "AS IS" BASIS,
- # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- # See the License for the specific language governing permissions and
- # limitations under the License.
- -->
-
+<?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
-    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>	
-	<item name="drawable/appwidget_inner_focus_c">@drawable/appwidget_inner_focus_c</item>
-	<item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_focus_l</item>
-	<item name="drawable/appwidget_inner_focus_r">@drawable/appwidget_inner_focus_r</item>
-	<item name="drawable/appwidget_inner_press_c">@drawable/appwidget_inner_press_c</item>
-	<item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press_l</item>
-	<item name="drawable/appwidget_inner_press_r">@drawable/appwidget_inner_press_r</item>
-	<item name="drawable/appwidget_settings_ind_mid_c">@drawable/com_android_settings_appwidget_settings_ind_mid_c</item>
-	<item name="drawable/appwidget_settings_ind_mid_l">@drawable/com_android_settings_appwidget_settings_ind_mid_l</item>
-	<item name="drawable/appwidget_settings_ind_mid_r">@drawable/com_android_settings_appwidget_settings_ind_mid_r</item>
-	<item name="drawable/appwidget_settings_ind_on_c">@drawable/com_android_settings_appwidget_settings_ind_on_c</item>
-	<item name="drawable/appwidget_settings_ind_on_l">@drawable/com_android_settings_appwidget_settings_ind_on_l</item>
-	<item name="drawable/appwidget_settings_ind_on_r">@drawable/com_android_settings_appwidget_settings_ind_on_r</item>
-	<item name="drawable/ic_appwidget_settings_2g3g_off">@drawable/com_android_settings_ic_appwidget_settings_2g3g_off</item>
-	<item name="drawable/ic_appwidget_settings_2g3g_on">@drawable/com_android_settings_ic_appwidget_settings_2g3g_on</item>
-	<item name="drawable/ic_appwidget_settings_3g_on">@drawable/com_android_settings_ic_appwidget_settings_3g_on</item>
-	<item name="drawable/ic_appwidget_settings_airplane_off">@drawable/com_android_settings_ic_appwidget_settings_airplane_off</item>
-	<item name="drawable/ic_appwidget_settings_airplane_on">@drawable/com_android_settings_ic_appwidget_settings_airplane_on</item>
-	<item name="drawable/ic_appwidget_settings_bluetooth_off">@drawable/com_android_settings_ic_appwidget_settings_bluetooth_off</item>
-	<item name="drawable/ic_appwidget_settings_bluetooth_on">@drawable/com_android_settings_ic_appwidget_settings_bluetooth_on</item>
-	<item name="drawable/ic_appwidget_settings_brightness_auto">@drawable/com_android_settings_ic_appwidget_settings_brightness_auto</item>
-	<item name="drawable/ic_appwidget_settings_brightness_mid">@drawable/com_android_settings_ic_appwidget_settings_brightness_mid</item>
-	<item name="drawable/ic_appwidget_settings_brightness_off">@drawable/com_android_settings_ic_appwidget_settings_brightness_off</item>
-	<item name="drawable/ic_appwidget_settings_brightness_on">@drawable/com_android_settings_ic_appwidget_settings_brightness_on</item>
-	<item name="drawable/ic_appwidget_settings_data_off">@drawable/com_android_settings_ic_appwidget_settings_data_off</item>
-	<item name="drawable/ic_appwidget_settings_data_on">@drawable/com_android_settings_ic_appwidget_settings_data_on</item>
-	<item name="drawable/ic_appwidget_settings_flashlight_off">@drawable/com_android_settings_ic_appwidget_settings_flashlight_off</item>
-	<item name="drawable/ic_appwidget_settings_flashlight_on">@drawable/com_android_settings_ic_appwidget_settings_flashlight_on</item>
-	<item name="drawable/ic_appwidget_settings_gps_off">@drawable/com_android_settings_ic_appwidget_settings_gps_off</item>
-	<item name="drawable/ic_appwidget_settings_gps_on">@drawable/com_android_settings_ic_appwidget_settings_gps_on</item>
-	<item name="drawable/ic_appwidget_settings_lock_screen_off">@drawable/com_android_settings_ic_appwidget_settings_lock_screen_off</item>
-	<item name="drawable/ic_appwidget_settings_lock_screen_on">@drawable/com_android_settings_ic_appwidget_settings_lock_screen_on</item>
-	<item name="drawable/ic_appwidget_settings_orientation_off">@drawable/com_android_settings_ic_appwidget_settings_orientation_off</item>
-	<item name="drawable/ic_appwidget_settings_orientation_on">@drawable/com_android_settings_ic_appwidget_settings_orientation_on</item>
-	<item name="drawable/ic_appwidget_settings_screen_timeout_off">@drawable/com_android_settings_ic_appwidget_settings_screen_timeout_off</item>
-	<item name="drawable/ic_appwidget_settings_screen_timeout_on">@drawable/com_android_settings_ic_appwidget_settings_screen_timeout_on</item>
-	<item name="drawable/ic_appwidget_settings_sound_ring_off">@drawable/com_android_settings_ic_appwidget_settings_sound_ring_off</item>
-	<item name="drawable/ic_appwidget_settings_sound_ring_on">@drawable/com_android_settings_ic_appwidget_settings_sound_ring_on</item>
-	<item name="drawable/ic_appwidget_settings_sound_silent">@drawable/com_android_settings_ic_appwidget_settings_sound_silent</item>
-	<item name="drawable/ic_appwidget_settings_sound_vibrate_off">@drawable/ic_appwidget_settings_sound_vibrate_off</item>
-	<item name="drawable/ic_appwidget_settings_sound_vibrate_on">@drawable/com_android_settings_ic_appwidget_settings_sound_vibrate_on</item>
-	<item name="drawable/ic_appwidget_settings_sync_off">@drawable/com_android_settings_ic_appwidget_settings_sync_off</item>
-	<item name="drawable/ic_appwidget_settings_sync_on">@drawable/com_android_settings_ic_appwidget_settings_sync_on</item>
-	<item name="drawable/ic_appwidget_settings_wifi_ap_off">@drawable/com_android_settings_ic_appwidget_settings_wifi_ap_off</item>
-	<item name="drawable/ic_appwidget_settings_wifi_ap_on">@drawable/com_android_settings_ic_appwidget_settings_wifi_ap_on</item>
-	<item name="drawable/ic_appwidget_settings_wifi_off">@drawable/com_android_settings_ic_appwidget_settings_wifi_off</item>
-	<item name="drawable/ic_appwidget_settings_wifi_on">@drawable/com_android_settings_ic_appwidget_settings_wifi_on</item>
-	<item name="drawable/ic_launcher_settings">@drawable/com_android_settings_ic_launcher_settings</item>
-	<item name="drawable/ic_cyanogenmod">@drawable/com_android_settings_ic_cyanogenmod</item>
-	<item name="drawable/ic_settings_about">@drawable/com_android_settings_ic_settings_about</item>
-	<item name="drawable/ic_settings_accessibility">@drawable/com_android_settings_ic_settings_accessibility</item>
-	<item name="drawable/ic_settings_applications">@drawable/com_android_settings_ic_settings_applications</item>
-	<item name="drawable/ic_settings_call">@drawable/com_android_settings_ic_settings_call</item>
-	<item name="drawable/ic_settings_date_time">@drawable/com_android_settings_ic_settings_date_time</item>
-	<item name="drawable/ic_settings_display">@drawable/com_android_settings_ic_settings_display</item>
-	<item name="drawable/ic_settings_dock">@drawable/com_android_settings_ic_settings_dock</item>
-	<item name="drawable/ic_settings_language">@drawable/com_android_settings_ic_settings_language</item>
-	<item name="drawable/ic_settings_launcher">@drawable/com_android_settings_ic_settings_launcher</item>
-	<item name="drawable/ic_settings_wireless">@drawable/com_android_settings_ic_settings_wireless</item>
-	<item name="drawable/ic_popup_brightness">@drawable/com_android_settings_ic_popup_brightness</item>
-	<item name="drawable/ic_tab_selected_all">@drawable/com_android_settings_ic_tab_selected_all</item>
-	<item name="drawable/ic_tab_selected_download">@drawable/ic_tab_selected_download</item>
-	<item name="drawable/ic_tab_selected_running">@drawable/com_android_settings_ic_tab_selected_running</item>
-	<item name="drawable/ic_tab_selected_sdcard">@drawable/com_android_settings_ic_tab_selected_sdcard</item>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_inner_focus_c">@drawable/appwidget_inner_focus_c</item>
+    <item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_focus_l</item>
+    <item name="drawable/appwidget_inner_focus_r">@drawable/appwidget_inner_focus_r</item>
+    <item name="drawable/appwidget_inner_press_c">@drawable/appwidget_inner_press_c</item>
+    <item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press_l</item>
+    <item name="drawable/appwidget_inner_press_r">@drawable/appwidget_inner_press_r</item>
+    <item name="drawable/appwidget_settings_ind_mid_c">@drawable/com_android_settings_appwidget_settings_ind_mid_c</item>
+    <item name="drawable/appwidget_settings_ind_mid_l">@drawable/com_android_settings_appwidget_settings_ind_mid_l</item>
+    <item name="drawable/appwidget_settings_ind_mid_r">@drawable/com_android_settings_appwidget_settings_ind_mid_r</item>
+    <item name="drawable/appwidget_settings_ind_on_c">@drawable/com_android_settings_appwidget_settings_ind_on_c</item>
+    <item name="drawable/appwidget_settings_ind_on_l">@drawable/com_android_settings_appwidget_settings_ind_on_l</item>
+    <item name="drawable/appwidget_settings_ind_on_r">@drawable/com_android_settings_appwidget_settings_ind_on_r</item>
+    <item name="drawable/ic_appwidget_settings_2g3g_off">@drawable/com_android_settings_ic_appwidget_settings_2g3g_off</item>
+    <item name="drawable/ic_appwidget_settings_2g3g_on">@drawable/com_android_settings_ic_appwidget_settings_2g3g_on</item>
+    <item name="drawable/ic_appwidget_settings_3g_on">@drawable/com_android_settings_ic_appwidget_settings_3g_on</item>
+    <item name="drawable/ic_appwidget_settings_airplane_off">@drawable/com_android_settings_ic_appwidget_settings_airplane_off</item>
+    <item name="drawable/ic_appwidget_settings_airplane_on">@drawable/com_android_settings_ic_appwidget_settings_airplane_on</item>
+    <item name="drawable/ic_appwidget_settings_bluetooth_off">@drawable/com_android_settings_ic_appwidget_settings_bluetooth_off</item>
+    <item name="drawable/ic_appwidget_settings_bluetooth_on">@drawable/com_android_settings_ic_appwidget_settings_bluetooth_on</item>
+    <item name="drawable/ic_appwidget_settings_brightness_auto">@drawable/com_android_settings_ic_appwidget_settings_brightness_auto</item>
+    <item name="drawable/ic_appwidget_settings_brightness_mid">@drawable/com_android_settings_ic_appwidget_settings_brightness_mid</item>
+    <item name="drawable/ic_appwidget_settings_brightness_off">@drawable/com_android_settings_ic_appwidget_settings_brightness_off</item>
+    <item name="drawable/ic_appwidget_settings_brightness_on">@drawable/com_android_settings_ic_appwidget_settings_brightness_on</item>
+    <item name="drawable/ic_appwidget_settings_data_off">@drawable/com_android_settings_ic_appwidget_settings_data_off</item>
+    <item name="drawable/ic_appwidget_settings_data_on">@drawable/com_android_settings_ic_appwidget_settings_data_on</item>
+    <item name="drawable/ic_appwidget_settings_flashlight_off">@drawable/com_android_settings_ic_appwidget_settings_flashlight_off</item>
+    <item name="drawable/ic_appwidget_settings_flashlight_on">@drawable/com_android_settings_ic_appwidget_settings_flashlight_on</item>
+    <item name="drawable/ic_appwidget_settings_gps_off">@drawable/com_android_settings_ic_appwidget_settings_gps_off</item>
+    <item name="drawable/ic_appwidget_settings_gps_on">@drawable/com_android_settings_ic_appwidget_settings_gps_on</item>
+    <item name="drawable/ic_appwidget_settings_lock_screen_off">@drawable/com_android_settings_ic_appwidget_settings_lock_screen_off</item>
+    <item name="drawable/ic_appwidget_settings_lock_screen_on">@drawable/com_android_settings_ic_appwidget_settings_lock_screen_on</item>
+    <item name="drawable/ic_appwidget_settings_orientation_off">@drawable/com_android_settings_ic_appwidget_settings_orientation_off</item>
+    <item name="drawable/ic_appwidget_settings_orientation_on">@drawable/com_android_settings_ic_appwidget_settings_orientation_on</item>
+    <item name="drawable/ic_appwidget_settings_screen_timeout_off">@drawable/com_android_settings_ic_appwidget_settings_screen_timeout_off</item>
+    <item name="drawable/ic_appwidget_settings_screen_timeout_on">@drawable/com_android_settings_ic_appwidget_settings_screen_timeout_on</item>
+    <item name="drawable/ic_appwidget_settings_sound_ring_off">@drawable/com_android_settings_ic_appwidget_settings_sound_ring_off</item>
+    <item name="drawable/ic_appwidget_settings_sound_ring_on">@drawable/com_android_settings_ic_appwidget_settings_sound_ring_on</item>
+    <item name="drawable/ic_appwidget_settings_sound_silent">@drawable/com_android_settings_ic_appwidget_settings_sound_silent</item>
+    <item name="drawable/ic_appwidget_settings_sound_vibrate_off">@drawable/ic_appwidget_settings_sound_vibrate_off</item>
+    <item name="drawable/ic_appwidget_settings_sound_vibrate_on">@drawable/com_android_settings_ic_appwidget_settings_sound_vibrate_on</item>
+    <item name="drawable/ic_appwidget_settings_sync_off">@drawable/com_android_settings_ic_appwidget_settings_sync_off</item>
+    <item name="drawable/ic_appwidget_settings_sync_on">@drawable/com_android_settings_ic_appwidget_settings_sync_on</item>
+    <item name="drawable/ic_appwidget_settings_wifi_ap_off">@drawable/com_android_settings_ic_appwidget_settings_wifi_ap_off</item>
+    <item name="drawable/ic_appwidget_settings_wifi_ap_on">@drawable/com_android_settings_ic_appwidget_settings_wifi_ap_on</item>
+    <item name="drawable/ic_appwidget_settings_wifi_off">@drawable/com_android_settings_ic_appwidget_settings_wifi_off</item>
+    <item name="drawable/ic_appwidget_settings_wifi_on">@drawable/com_android_settings_ic_appwidget_settings_wifi_on</item>
+    <item name="drawable/ic_launcher_settings">@drawable/com_android_settings_ic_launcher_settings</item>
+    <item name="drawable/ic_cyanogenmod">@drawable/com_android_settings_ic_cyanogenmod</item>
+    <item name="drawable/ic_settings_about">@drawable/com_android_settings_ic_settings_about</item>
+    <item name="drawable/ic_settings_accessibility">@drawable/com_android_settings_ic_settings_accessibility</item>
+    <item name="drawable/ic_settings_applications">@drawable/com_android_settings_ic_settings_applications</item>
+    <item name="drawable/ic_settings_call">@drawable/com_android_settings_ic_settings_call</item>
+    <item name="drawable/ic_settings_date_time">@drawable/com_android_settings_ic_settings_date_time</item>
+    <item name="drawable/ic_settings_display">@drawable/com_android_settings_ic_settings_display</item>
+    <item name="drawable/ic_settings_dock">@drawable/com_android_settings_ic_settings_dock</item>
+    <item name="drawable/ic_settings_language">@drawable/com_android_settings_ic_settings_language</item>
+    <item name="drawable/ic_settings_launcher">@drawable/com_android_settings_ic_settings_launcher</item>
+    <item name="drawable/ic_settings_wireless">@drawable/com_android_settings_ic_settings_wireless</item>
+    <item name="drawable/ic_popup_brightness">@drawable/com_android_settings_ic_popup_brightness</item>
+    <item name="drawable/ic_tab_selected_all">@drawable/com_android_settings_ic_tab_selected_all</item>
+    <item name="drawable/ic_tab_selected_download">@drawable/ic_tab_selected_download</item>
+    <item name="drawable/ic_tab_selected_running">@drawable/com_android_settings_ic_tab_selected_running</item>
+    <item name="drawable/ic_tab_selected_sdcard">@drawable/com_android_settings_ic_tab_selected_sdcard</item>
 </resource-redirections>

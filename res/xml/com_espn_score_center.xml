@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/widget_bg">@drawable/com_espn_score_center_widget_bg</item>
+    <item name="drawable/widget_tab">@drawable/com_espn_score_center_widget_tab</item>
+</resource-redirections>

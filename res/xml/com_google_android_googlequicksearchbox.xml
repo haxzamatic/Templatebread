@@ -1,47 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
- # Copyright (C) 2010, T-Mobile USA, Inc.
- #
- # Licensed under the Apache License, Version 2.0 (the "License");
- # you may not use this file except in compliance with the License.
- # You may obtain a copy of the License at
- #
- #      http://www.apache.org/licenses/LICENSE-2.0
- #
- # Unless required by applicable law or agreed to in writing, software
- # distributed under the License is distributed on an "AS IS" BASIS,
- # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- # See the License for the specific language governing permissions and
- # limitations under the License.
- -->
-
+<?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
     <item name="drawable/google_icon">@drawable/com_google_android_googlequicksearchbox_google_icon</item>
     <item name="drawable/search_app_icon">@drawable/com_google_android_googlequicksearchbox_search_app_icon</item>
     <item name="drawable/search_floater">@drawable/appwidget_bg</item>
     <item name="drawable/search_plate_global">@drawable/com_google_android_googlequicksearchbox_search_plate_global</item>
     <item name="drawable/textfield_search_default">@drawable/com_google_android_googlequicksearchbox_textfield_search_default</item>
-	<item name="drawable/corpus_selector_bg">@drawable/com_google_android_googlequicksearchbox_corpus_selector_bg</item>
-	<item name="drawable/textfield_search_empty_default">@drawable/com_google_android_googlequicksearchbox_textfield_search_empty_default</item>
-	<item name="drawable/textfield_search_empty_pressed">@drawable/com_google_android_googlequicksearchbox_textfield_search_empty_pressed</item>
-	<item name="drawable/textfield_search_empty_selected">@drawable/com_google_android_googlequicksearchbox_textfield_search_empty_selected</item>
-	<item name="drawable/textfield_search_pressed">@drawable/com_google_android_googlequicksearchbox_textfield_search_pressed</item>
-	<item name="drawable/textfield_search_selected">@drawable/com_google_android_googlequicksearchbox_textfield_search_selected</item>
-	<item name="drawable/corpus_indicator_bg_focused">@drawable/com_google_android_googlequicksearchbox_corpus_indicator_bg_focused</item>
-	<item name="drawable/corpus_indicator_bg_normal">@drawable/com_google_android_googlequicksearchbox_corpus_indicator_bg_normal</item>
-	<item name="drawable/corpus_indicator_bg_pressed">@drawable/com_google_android_googlequicksearchbox_corpus_indicator_bg_pressed</item>
-	<item name="drawable/btn_search_dialog_default">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_default</item>
-	<item name="drawable/btn_search_dialog_pressed">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_pressed</item>
-	<item name="drawable/btn_search_dialog_selected">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_selected</item>
-	<item name="drawable/btn_search_dialog_voice_default">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_voice_default</item>
-	<item name="drawable/btn_search_dialog_voice_pressed">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_voice_pressed</item>
-	<item name="drawable/btn_search_dialog_voice_selected">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_voice_selected</item>
-	<item name="drawable/ic_btn_speak_now">@drawable/com_google_android_googlequicksearchbox_ic_btn_speak_now</item>
-	<item name="drawable/business_listing_bg">@drawable/com_google_android_googlequicksearchbox_business_listing_bg</item>
-	<item name="drawable/corpus_icon_web">@drawable/com_google_android_googlequicksearchbox_corpus_icon_web</item>
-	<item name="drawable/edit_query_background_normal">@drawable/com_google_android_googlequicksearchbox_edit_query_background_normal</item>
-	<item name="drawable/edit_query_background_pressed">@drawable/com_google_android_googlequicksearchbox_edit_query_background_pressed</item>
-	<item name="drawable/edit_query_background_selected">@drawable/com_google_android_googlequicksearchbox_edit_query_background_selected</item>
-	<item name="drawable/hint_google">@drawable/com_google_android_googlequicksearchbox_hint_google</item>
-	<item name="drawable/maps_icon">@drawable/com_google_android_googlequicksearchbox_maps_icon</item>
+    <item name="drawable/corpus_selector_bg">@drawable/com_google_android_googlequicksearchbox_corpus_selector_bg</item>
+    <item name="drawable/textfield_search_empty_default">@drawable/com_google_android_googlequicksearchbox_textfield_search_empty_default</item>
+    <item name="drawable/textfield_search_empty_pressed">@drawable/com_google_android_googlequicksearchbox_textfield_search_empty_pressed</item>
+    <item name="drawable/textfield_search_empty_selected">@drawable/com_google_android_googlequicksearchbox_textfield_search_empty_selected</item>
+    <item name="drawable/textfield_search_pressed">@drawable/com_google_android_googlequicksearchbox_textfield_search_pressed</item>
+    <item name="drawable/textfield_search_selected">@drawable/com_google_android_googlequicksearchbox_textfield_search_selected</item>
+    <item name="drawable/corpus_indicator_bg_focused">@drawable/com_google_android_googlequicksearchbox_corpus_indicator_bg_focused</item>
+    <item name="drawable/corpus_indicator_bg_normal">@drawable/com_google_android_googlequicksearchbox_corpus_indicator_bg_normal</item>
+    <item name="drawable/corpus_indicator_bg_pressed">@drawable/com_google_android_googlequicksearchbox_corpus_indicator_bg_pressed</item>
+    <item name="drawable/btn_search_dialog_default">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_default</item>
+    <item name="drawable/btn_search_dialog_pressed">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_pressed</item>
+    <item name="drawable/btn_search_dialog_selected">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_selected</item>
+    <item name="drawable/btn_search_dialog_voice_default">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_voice_default</item>
+    <item name="drawable/btn_search_dialog_voice_pressed">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_voice_pressed</item>
+    <item name="drawable/btn_search_dialog_voice_selected">@drawable/com_google_android_googlequicksearchbox_btn_search_dialog_voice_selected</item>
+    <item name="drawable/ic_btn_speak_now">@drawable/com_google_android_googlequicksearchbox_ic_btn_speak_now</item>
+    <item name="drawable/business_listing_bg">@drawable/com_google_android_googlequicksearchbox_business_listing_bg</item>
+    <item name="drawable/corpus_icon_web">@drawable/com_google_android_googlequicksearchbox_corpus_icon_web</item>
+    <item name="drawable/edit_query_background_normal">@drawable/com_google_android_googlequicksearchbox_edit_query_background_normal</item>
+    <item name="drawable/edit_query_background_pressed">@drawable/com_google_android_googlequicksearchbox_edit_query_background_pressed</item>
+    <item name="drawable/edit_query_background_selected">@drawable/com_google_android_googlequicksearchbox_edit_query_background_selected</item>
+    <item name="drawable/hint_google">@drawable/com_google_android_googlequicksearchbox_hint_google</item>
+    <item name="drawable/maps_icon">@drawable/com_google_android_googlequicksearchbox_maps_icon</item>
 </resource-redirections>

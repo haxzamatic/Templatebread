@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+	<item name="drawable/base">@drawable/com_anddoes_fancywidget_pro_base</item>
+	<item name="drawable/base_land">@drawable/com_anddoes_fancywidget_pro_base_land</item>
+	<item name="drawable/base_small">@drawable/com_anddoes_fancywidget_pro_base_small</item>
+	<item name="drawable/base_small_land">@drawable/com_anddoes_fancywidget_pro_base_small_land</item>
+</resource-redirections>

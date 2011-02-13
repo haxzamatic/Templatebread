@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/widget_black_small">@drawable/appwidget_bg</item>
+	<item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+	<item name="drawable/notification">@drawable/com_levelup_touiteur_notification</item>
+</resource-redirections>

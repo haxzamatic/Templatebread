@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
- # Copyright (C) 2010, T-Mobile USA, Inc.
- #
- # Licensed under the Apache License, Version 2.0 (the "License");
- # you may not use this file except in compliance with the License.
- # You may obtain a copy of the License at
- #
- #      http://www.apache.org/licenses/LICENSE-2.0
- #
- # Unless required by applicable law or agreed to in writing, software
- # distributed under the License is distributed on an "AS IS" BASIS,
- # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- # See the License for the specific language governing permissions and
- # limitations under the License.
- -->
-
+<?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
     <item name="drawable/btn_strip_trans_left_pressed">@drawable/com_android_deskclock_btn_strip_trans_left_pressed</item>
     <item name="drawable/btn_strip_trans_left_selected">@drawable/com_android_deskclock_btn_strip_trans_left_selected</item>
@@ -22,25 +6,25 @@
     <item name="drawable/btn_strip_trans_middle_selected">@drawable/com_android_deskclock_btn_strip_trans_middle_selected</item>
     <item name="drawable/btn_strip_trans_right_pressed">@drawable/com_android_deskclock_btn_strip_trans_right_pressed</item>
     <item name="drawable/btn_strip_trans_right_selected">@drawable/com_android_deskclock_btn_strip_trans_right_selected</item>
-	<item name="drawable/appwidget_clock_dial">@drawable/com_android_deskclock_appwidget_clock_dial</item>
-	<item name="drawable/appwidget_clock_hour">@drawable/com_android_deskclock_appwidget_clock_hour</item>
-	<item name="drawable/appwidget_clock_minute">@drawable/com_android_deskclock_appwidget_clock_minute</item>
-	<item name="drawable/btn_in_call_round_disable">@drawable/com_android_deskclock_btn_in_call_round_disable</item>
-	<item name="drawable/btn_in_call_round_disable_focused">@drawable/com_android_deskclock_btn_in_call_round_disable_focused</item>
-	<item name="drawable/btn_in_call_round_normal">@drawable/com_android_deskclock_btn_in_call_round_normal</item>
-	<item name="drawable/btn_in_call_round_pressed">@drawable/com_android_deskclock_btn_in_call_round_pressed</item>
-	<item name="drawable/btn_in_call_round_selected">@drawable/com_android_deskclock_btn_in_call_round_selected</item>
-	<item name="drawable/btn_strip_trans_left_normal">@drawable/com_android_deskclock_btn_strip_trans_left_normal</item>
-	<item name="drawable/btn_strip_trans_middle_normal">@drawable/com_android_deskclock_btn_strip_trans_middle_normal</item>
-	<item name="drawable/btn_strip_trans_right_normal">@drawable/com_android_deskclock_btn_strip_trans_right_normal</item>
-	<item name="drawable/dialog">@drawable/com_android_deskclock_dialog</item>
-	<item name="drawable/ic_clock_strip_alarm">@drawable/com_android_deskclock_ic_clock_strip_alarm</item>
-	<item name="drawable/ic_clock_strip_desk_clock">@drawable/com_android_deskclock_ic_clock_strip_desk_clock</item>
-	<item name="drawable/ic_clock_strip_gallery">@drawable/com_android_deskclock_ic_clock_strip_gallery</item>
-	<item name="drawable/ic_clock_strip_home">@drawable/com_android_deskclock_ic_clock_strip_home</item>
-	<item name="drawable/ic_clock_strip_music">@drawable/com_android_deskclock_ic_clock_strip_music</item>
-	<item name="drawable/ic_launcher_alarmclock">@drawable/com_android_deskclock_ic_launcher_alarmclock</item>
-	<item name="drawable/ic_widget_analog_clock">@drawable/com_android_deskclock_ic_widget_analog_clock</item>
-	<item name="drawable/list_selector_background_pressed">@drawable/com_android_deskclock_list_selector_background_pressed</item>
-	<item name="drawable/stat_notify_alarm">@drawable/com_android_deskclock_stat_notify_alarm</item>
+    <item name="drawable/appwidget_clock_dial">@drawable/com_android_deskclock_appwidget_clock_dial</item>
+    <item name="drawable/appwidget_clock_hour">@drawable/com_android_deskclock_appwidget_clock_hour</item>
+    <item name="drawable/appwidget_clock_minute">@drawable/com_android_deskclock_appwidget_clock_minute</item>
+    <item name="drawable/btn_in_call_round_disable">@drawable/com_android_deskclock_btn_in_call_round_disable</item>
+    <item name="drawable/btn_in_call_round_disable_focused">@drawable/com_android_deskclock_btn_in_call_round_disable_focused</item>
+    <item name="drawable/btn_in_call_round_normal">@drawable/com_android_deskclock_btn_in_call_round_normal</item>
+    <item name="drawable/btn_in_call_round_pressed">@drawable/com_android_deskclock_btn_in_call_round_pressed</item>
+    <item name="drawable/btn_in_call_round_selected">@drawable/com_android_deskclock_btn_in_call_round_selected</item>
+    <item name="drawable/btn_strip_trans_left_normal">@drawable/com_android_deskclock_btn_strip_trans_left_normal</item>
+    <item name="drawable/btn_strip_trans_middle_normal">@drawable/com_android_deskclock_btn_strip_trans_middle_normal</item>
+    <item name="drawable/btn_strip_trans_right_normal">@drawable/com_android_deskclock_btn_strip_trans_right_normal</item>
+    <item name="drawable/dialog">@drawable/com_android_deskclock_dialog</item>
+    <item name="drawable/ic_clock_strip_alarm">@drawable/com_android_deskclock_ic_clock_strip_alarm</item>
+    <item name="drawable/ic_clock_strip_desk_clock">@drawable/com_android_deskclock_ic_clock_strip_desk_clock</item>
+    <item name="drawable/ic_clock_strip_gallery">@drawable/com_android_deskclock_ic_clock_strip_gallery</item>
+    <item name="drawable/ic_clock_strip_home">@drawable/com_android_deskclock_ic_clock_strip_home</item>
+    <item name="drawable/ic_clock_strip_music">@drawable/com_android_deskclock_ic_clock_strip_music</item>
+    <item name="drawable/ic_launcher_alarmclock">@drawable/com_android_deskclock_ic_launcher_alarmclock</item>
+    <item name="drawable/ic_widget_analog_clock">@drawable/com_android_deskclock_ic_widget_analog_clock</item>
+    <item name="drawable/list_selector_background_pressed">@drawable/com_android_deskclock_list_selector_background_pressed</item>
+    <item name="drawable/stat_notify_alarm">@drawable/com_android_deskclock_stat_notify_alarm</item>
 </resource-redirections>
