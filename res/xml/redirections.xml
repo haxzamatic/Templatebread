@@ -57,4 +57,10 @@
 	<package-redirections android:name="com.pandora.android" android:resource="@xml/com_pandora_android" android:minSdkVersion="7" />
 	<package-redirections android:name="com.teamdouche.nexuskangfree" android:resource="@xml/com_teamdouche_nexuskangfree" android:minSdkVersion="7" />
 	<package-redirections android:name="mobizz.intuitit.android.p.powerstrip" android:resource="@xml/mobizz_intuitit_android_p_powerstrip" android:minSdkVersion="7" />
+	<package-redirections android:name="com.android.providers.calendar" android:resource="@xml/com_android_providers_calendar" android:minSdkVersion="7" />
+	<package-redirections android:name="com.android.quicksearchbox" android:resource="@xml/com_android_quicksearchbox" android:minSdkVersion="7" />
+	<package-redirections android:name="com.extendedcontrols" android:resource="@xml/com_extendedcontrols" android:minSdkVersion="7" />
+	<package-redirections android:name="com.facebook.katana" android:resource="@xml/com_facebook_katana" android:minSdkVersion="7" />
+	<package-redirections android:name="com.google.android.carhome" android:resource="@xml/com_google_android_carhome" android:minSdkVersion="7" />
+	<package-redirections android:name="com.maxmpz.audioplayer" android:resource="@xml/com_maxmpz_audioplayer" android:minSdkVersion="7" />
 </theme-redirections>

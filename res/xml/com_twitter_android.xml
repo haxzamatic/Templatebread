@@ -11,4 +11,7 @@
 	<item name="drawable/appwidget_twitter_logo_pressed">@drawable/com_twitter_android_appwidget_twitter_logo_pressed</item>
 	<item name="drawable/appwidget_twitter_logo_selected">@drawable/com_twitter_android_appwidget_twitter_logo_selected</item>
 	<item name="color/gray_color">@color/bright_foreground_dark</item>
+	<item name="drawable/ic_launcher_twitter">@drawable/com_twitter_android_ic_launcher_twitter</item>
 </resource-redirections>
+
+

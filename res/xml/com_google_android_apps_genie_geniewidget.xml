@@ -13,4 +13,8 @@
     <item name="drawable/ic_launcher_news">@drawable/com_google_android_apps_genie_geniewidget_ic_launcher_news</item>
     <item name="drawable/ic_launcher_news_weather">@drawable/com_google_android_apps_genie_geniewidget_ic_launcher_news_weather</item>
     <item name="drawable/ic_launcher_weather">@drawable/com_google_android_apps_genie_geniewidget_ic_launcher_weather</item>
+	<item name="drawable/tab_weather_focus">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_focus</item>
+	<item name="drawable/tab_weather_press">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_press</item>
+	<item name="drawable/tab_weather_unselected_press">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_unselected_press</item>
+	<item name="drawable/weather_info_btn_clicked">@drawable/com_google_android_apps_genie_geniewidget_weather_info_btn_clicked</item>
 </resource-redirections>

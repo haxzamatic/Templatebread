@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
 <resource-redirections>
-    <item name="drawable/ic_launcher_google_talk">@drawable/com_google_android_talk_ic_launcher_google_talk</item>
+    <item name="drawable/textfield_im_user_pressed_pad">@drawable/com_android_mms_textfield_im_user_pressed_pad</item>
+    <item name="drawable/textfield_im_user_selected_pad">@drawable/com_android_mms_textfield_im_user_selected_pad</item>
+    <item name="drawable/border_photo_thumbnail_pressed">@drawable/com_google_android_talk_border_photo_thumbnail_pressed</item>
+    <item name="drawable/border_photo_thumbnail_selected">@drawable/com_google_android_talk_border_photo_thumbnail_selected</item>
+    <item name="drawable/dashboard_highlight_selected">@drawable/com_google_android_talk_dashboard_highlight_selected</item>
+    <item name="drawable/im_avatar_picture_border_highlight">@drawable/com_google_android_talk_im_avatar_picture_border_highlight</item>
+    <item name="drawable/im_avatar_picture_border_pressed">@drawable/com_google_android_talk_im_avatar_picture_border_pressed</item>
+    <item name="drawable/im_bubble_highlight">@drawable/com_google_android_talk_im_bubble_highlight</item>
+    <item name="drawable/im_bubble_pressed">@drawable/com_google_android_talk_im_bubble_pressed</item>
+	<item name="drawable/ic_launcher_google_talk">@drawable/com_google_android_talk_ic_launcher_google_talk</item>
+	<item name="drawable/emo_im_angel">@drawable/frameworks_res_emo_im_angel</item>
+    <item name="drawable/emo_im_cool">@drawable/frameworks_res_emo_im_cool</item>
+    <item name="drawable/emo_im_crying">@drawable/emo_im_crying</item>
+    <item name="drawable/emo_im_foot_in_mouth">@drawable/frameworks_res_emo_im_foot_in_mouth</item>
+    <item name="drawable/emo_im_happy">@drawable/frameworks_res_emo_im_happy</item>
+    <item name="drawable/emo_im_kissing">@drawable/frameworks_res_emo_im_kissing</item>
+    <item name="drawable/emo_im_laughing">@drawable/frameworks_res_emo_im_laughing</item>
+    <item name="drawable/emo_im_lips_are_sealed">@drawable/frameworks_res_emo_im_lips_are_sealed</item>
+    <item name="drawable/emo_im_money_mouth">@drawable/frameworks_res_emo_im_money_mouth</item>
+    <item name="drawable/emo_im_sad">@drawable/frameworks_res_emo_im_sad</item>
+    <item name="drawable/emo_im_surprised">@drawable/frameworks_res_emo_im_surprised</item>
+    <item name="drawable/emo_im_tongue_sticking_out">@drawable/frameworks_res_emo_im_tongue_sticking_out</item>
+    <item name="drawable/emo_im_undecided">@drawable/frameworks_res_emo_im_undecided</item>
+    <item name="drawable/emo_im_winking">@drawable/frameworks_res_emo_im_winking</item>
+    <item name="drawable/emo_im_wtf">@drawable/frameworks_res_emo_im_wtf</item>
+    <item name="drawable/emo_im_yelling">@drawable/frameworks_res_emo_im_yelling</item>
 </resource-redirections>

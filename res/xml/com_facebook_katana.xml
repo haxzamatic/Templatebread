@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+	<item name="drawable/appwidget_bg_focus">@drawable/appwidget_bg_focus</item>
+	<item name="drawable/appwidget_bg_press">@drawable/appwidget_bg_press</item>
+	<item name="drawable/appwidget_facebook_icon_default">@drawable/com_facebook_katana_appwidget_facebook_icon_default</item>
+	<item name="drawable/appwidget_facebook_icon_pressed">@drawable/com_facebook_katana_appwidget_facebook_icon_pressed</item>
+	<item name="drawable/appwidget_facebook_icon_selected">@drawable/com_facebook_katana_appwidget_facebook_icon_selected</item>
+	<item name="drawable/icon">@drawable/com_facebook_katana_icon</item>
+</resource-redirections>

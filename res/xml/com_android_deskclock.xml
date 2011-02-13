@@ -27,4 +27,5 @@
     <item name="drawable/ic_widget_analog_clock">@drawable/com_android_deskclock_ic_widget_analog_clock</item>
     <item name="drawable/list_selector_background_pressed">@drawable/com_android_deskclock_list_selector_background_pressed</item>
     <item name="drawable/stat_notify_alarm">@drawable/com_android_deskclock_stat_notify_alarm</item>
+	<item name="drawable/ic_indicator_on">@drawable/com_android_deskclock_ic_indicator_on</item>
 </resource-redirections>
